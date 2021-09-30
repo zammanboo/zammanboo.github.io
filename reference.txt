@@ -1,0 +1,2 @@
+# theme structure 가이드
+https://honbabzone.com/jekyll/start-gitHubBlog/
